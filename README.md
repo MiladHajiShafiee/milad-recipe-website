@@ -13,5 +13,7 @@ This is my [website](https://milad-recipe-search-website.web.app/) for searching
     ```
 1. > npm install
 1. > npm start
-   > #License
-   > This Repo is licensed under BSD 3-Clause permissive license. You can read it [here](./LICENSE).
+
+# License
+
+This Repo is licensed under BSD 3-Clause permissive license. You can read it [here](./LICENSE).

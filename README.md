@@ -1,6 +1,10 @@
 # Milad's Recipe
 
-This is my [website](https://milad-recipe-search-website.web.app/) for searching in recipes, I used [**Spoonacular**](https://spoonacular.com/) API in this webpage.
+This project is [website](https://milad-recipe-search-website.web.app/) for searching in recipes, [**Spoonacular**](https://spoonacular.com/) API is used in this webpage.
+
+![recipe_01](https://user-images.githubusercontent.com/54850998/109096377-aed1fe80-7732-11eb-9a33-13255ca95a1a.png)
+![recipe_02](https://user-images.githubusercontent.com/54850998/109096484-db861600-7732-11eb-8c21-eea7f72e75df.png)
+![recipe_03](https://user-images.githubusercontent.com/54850998/109096530-ef317c80-7732-11eb-9a20-ef65d8d41448.png)
 
 # How to use
 

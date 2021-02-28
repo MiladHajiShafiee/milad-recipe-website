@@ -1,4 +1,4 @@
-# Recipe website
+# Recipes website
 
 This project is [website](https://milad-recipe-search-website.web.app/) for searching in recipes, [**Spoonacular**](https://spoonacular.com/) API is used in this webpage.
 
